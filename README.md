@@ -65,6 +65,34 @@ campmamo-demos/
 
 ---
 
+## 📱 Media Kit and Social Sharing
+
+![Camp Mamo Social Share Template](assets/socialShareTemplate.png)
+
+Building in public is the fastest way to level up.
+
+Share what you're learning. Show what you're building. And when you post, use our Figma templates to make it shine. They’re perfect for progress updates and “Today I Learned” moments.
+
+### How to use the templates:
+
+1. **Access the templates**: Visit our [Figma design file](https://www.figma.com/design/AodtIu10eBxHEKMIXe7UMI/Camp-Mamo-shareables?node-id=0-248&t=p1vBI91rNYWcTWUh-0)
+
+2. **Copy to your workspace**: Click the "Copy" button in the top-right corner of the Figma file to duplicate it to your own Figma workspace
+
+3. **Customize the content**: 
+Edit the placeholder text to describe your specific project or learning
+
+
+4. **Keep the design consistent**: The templates are designed with the Camp Mamo brand in mind - please maintain the existing colors, fonts, and layout for consistency
+
+5. **Export your image**: Select the frame you want to export, then use Figma's export feature to save as PNG or JPG
+
+6. **Share away**: Post your customized template on Twitter, LinkedIn, Discord, or wherever you share your work!
+
+7. **Tag us**: When you post, don't forget to tag us `@Celestia`
+
+---
+
 ## 🤝 Contributing & adding new demos
 1. Fork this repo and create a new branch.
 2. Add the external demo as a submodule:
